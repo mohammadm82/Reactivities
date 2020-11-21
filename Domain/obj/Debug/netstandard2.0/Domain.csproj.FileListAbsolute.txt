@@ -1,0 +1,9 @@
+D:\Downloads\Udemy-NetCoreAndReact\Udemy Complete guide to building an app with .Net Core and React 2020-5-subtitle-git.ir\MySample\Part1_VS\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+D:\Downloads\Udemy-NetCoreAndReact\Udemy Complete guide to building an app with .Net Core and React 2020-5-subtitle-git.ir\MySample\Part1_VS\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.dll
+D:\Downloads\Udemy-NetCoreAndReact\Udemy Complete guide to building an app with .Net Core and React 2020-5-subtitle-git.ir\MySample\Part1_VS\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.pdb
+D:\Downloads\Udemy-NetCoreAndReact\Udemy Complete guide to building an app with .Net Core and React 2020-5-subtitle-git.ir\MySample\Part1_VS\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+D:\Downloads\Udemy-NetCoreAndReact\Udemy Complete guide to building an app with .Net Core and React 2020-5-subtitle-git.ir\MySample\Part1_VS\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+D:\Downloads\Udemy-NetCoreAndReact\Udemy Complete guide to building an app with .Net Core and React 2020-5-subtitle-git.ir\MySample\Part1_VS\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+D:\Downloads\Udemy-NetCoreAndReact\Udemy Complete guide to building an app with .Net Core and React 2020-5-subtitle-git.ir\MySample\Part1_VS\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+D:\Downloads\Udemy-NetCoreAndReact\Udemy Complete guide to building an app with .Net Core and React 2020-5-subtitle-git.ir\MySample\Part1_VS\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.dll
+D:\Downloads\Udemy-NetCoreAndReact\Udemy Complete guide to building an app with .Net Core and React 2020-5-subtitle-git.ir\MySample\Part1_VS\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.pdb
